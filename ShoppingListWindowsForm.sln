@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingListWindowsForm", "ShoppingListWindowsForm\ShoppingListWindowsForm.csproj", "{DAE1A85E-0C3E-462D-898E-F30CA9DAE3AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAE1A85E-0C3E-462D-898E-F30CA9DAE3AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAE1A85E-0C3E-462D-898E-F30CA9DAE3AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAE1A85E-0C3E-462D-898E-F30CA9DAE3AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAE1A85E-0C3E-462D-898E-F30CA9DAE3AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA2D49BE-D32A-4345-993B-B9C6ABB2A81D}
+	EndGlobalSection
+EndGlobal

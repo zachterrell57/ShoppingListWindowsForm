@@ -1,0 +1,15 @@
+C:\Users\ZachTerrell\source\repos\ShoppingListWindowsForm\ShoppingListWindowsForm\bin\Debug\netcoreapp3.1\ShoppingListWindowsForm.exe
+C:\Users\ZachTerrell\source\repos\ShoppingListWindowsForm\ShoppingListWindowsForm\bin\Debug\netcoreapp3.1\ShoppingListWindowsForm.deps.json
+C:\Users\ZachTerrell\source\repos\ShoppingListWindowsForm\ShoppingListWindowsForm\bin\Debug\netcoreapp3.1\ShoppingListWindowsForm.runtimeconfig.json
+C:\Users\ZachTerrell\source\repos\ShoppingListWindowsForm\ShoppingListWindowsForm\bin\Debug\netcoreapp3.1\ShoppingListWindowsForm.runtimeconfig.dev.json
+C:\Users\ZachTerrell\source\repos\ShoppingListWindowsForm\ShoppingListWindowsForm\bin\Debug\netcoreapp3.1\ShoppingListWindowsForm.dll
+C:\Users\ZachTerrell\source\repos\ShoppingListWindowsForm\ShoppingListWindowsForm\bin\Debug\netcoreapp3.1\ShoppingListWindowsForm.pdb
+C:\Users\ZachTerrell\source\repos\ShoppingListWindowsForm\ShoppingListWindowsForm\obj\Debug\netcoreapp3.1\ShoppingListWindowsForm.csprojAssemblyReference.cache
+C:\Users\ZachTerrell\source\repos\ShoppingListWindowsForm\ShoppingListWindowsForm\obj\Debug\netcoreapp3.1\ShoppingListWindowsForm.MainForm.resources
+C:\Users\ZachTerrell\source\repos\ShoppingListWindowsForm\ShoppingListWindowsForm\obj\Debug\netcoreapp3.1\ShoppingListWindowsForm.csproj.GenerateResource.cache
+C:\Users\ZachTerrell\source\repos\ShoppingListWindowsForm\ShoppingListWindowsForm\obj\Debug\netcoreapp3.1\ShoppingListWindowsForm.AssemblyInfoInputs.cache
+C:\Users\ZachTerrell\source\repos\ShoppingListWindowsForm\ShoppingListWindowsForm\obj\Debug\netcoreapp3.1\ShoppingListWindowsForm.AssemblyInfo.cs
+C:\Users\ZachTerrell\source\repos\ShoppingListWindowsForm\ShoppingListWindowsForm\obj\Debug\netcoreapp3.1\ShoppingListWindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\ZachTerrell\source\repos\ShoppingListWindowsForm\ShoppingListWindowsForm\obj\Debug\netcoreapp3.1\ShoppingListWindowsForm.dll
+C:\Users\ZachTerrell\source\repos\ShoppingListWindowsForm\ShoppingListWindowsForm\obj\Debug\netcoreapp3.1\ShoppingListWindowsForm.pdb
+C:\Users\ZachTerrell\source\repos\ShoppingListWindowsForm\ShoppingListWindowsForm\obj\Debug\netcoreapp3.1\ShoppingListWindowsForm.genruntimeconfig.cache
